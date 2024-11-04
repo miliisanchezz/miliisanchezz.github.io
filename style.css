@@ -1,0 +1,104 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: 10px;
+    color: rgb(139, 119, 94);
+    background-color: burlywood;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: rgb(82, 65, 45);
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(56, 46, 34);
+}
+
+.practicando {
+    color: rgb(168, 147, 122);
+    background-color: rgb(56, 46, 34);
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 18px;
+    padding: 10px;
+}
+
+img {
+    width: 100%;
+    max-width: 140px;
+    height: auto;
+    border-radius: 8px;
+
+}
+
+.footer {
+    color: rgb(170, 139, 102);
+    background-color: rgb(83, 73, 60);
+    text-align: center;
+    padding: 10px;
+    font-size: 0.9em;
+}
+
+.ig, .face, .twitter {
+    color: rgb(170, 139, 102);
+    text-decoration: none;
+}
+
+.ig:hover, .face:hover, .twitter:hover {
+    color: rgb(202, 179, 150);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    padding: 10px;
+    background-color: rgb(104, 87, 67);
+}
+
+.link {
+    color: rgb(170, 139, 102);
+    
+}
+
+.link:hover {
+    color: rgb(71, 60, 46);
+}
+
+header {
+    background-color: rgb(170, 139, 102);
+    color: rgb(104, 87, 67);
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+section {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+article {
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 20px;
+    
+}
+
+.title{
+    font-size: 30px;
+}
